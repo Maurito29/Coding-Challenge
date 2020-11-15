@@ -1,0 +1,60 @@
+body{
+  background-image: url("background.jpg");
+  background-size: cover;
+  font-family: 'Kumbh Sans', sans-serif;
+}
+
+.conteiner{
+  width: 700px;
+  margin: auto;
+  border-radius: 10px;
+  padding: 80px;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.logo{
+  width: 200px;
+}
+
+header{
+  text-align:center;
+  color: #1fde08;
+  font-size: 25px;
+  line-height: 0;
+}
+
+.pulsanti{
+  background-color: #1fde08;
+  border-radius: 3px;
+  padding: 8px;
+  text-align:center;
+}
+
+main{
+  color: white;
+}
+
+span{
+  font-size: 20px;
+}
+
+.Rettangolo1 {
+  height: 20px;
+  width: 250px;
+  background-color: orange;
+  border-radius: 3px;
+}
+
+.Rettangolo2 {
+  height: 20px;
+  width: 550px;
+  background-color: green;
+  border-radius: 3px;
+}
+
+.Rettangolo3 {
+  height: 20px;
+  width: 120px;
+  background-color: red;
+  border-radius: 3px;
+}
